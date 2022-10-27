@@ -1,0 +1,49 @@
+* {
+    font-family: 'Quicksand', sans-serif;;
+}
+
+a {
+    text-decoration: none;
+}
+
+.manzana {
+    width: 200px;
+    height: 200px;
+    border-radius: 36px;
+    border: 16px solid black;
+}
+
+.uva {
+    width: 200px;
+    height: 200px;
+    border-radius: 36px;
+    border: 16px solid black;
+}
+
+.coco {
+    width: 200px;
+    height: 200px;
+    border-radius: 36px;
+    border: 16px solid black;
+}
+
+.carne {
+    width: 200px;
+    height: 200px;
+    border-radius: 36px;
+    border: 16px solid black;
+}
+
+.pollo {
+    width: 200px;
+    height: 200px;
+    border-radius: 36px;
+    border: 16px solid black;
+}
+
+.pescado {
+    width: 200px;
+    height: 200px;
+    border-radius: 36px;
+    border: 16px solid black;
+}
